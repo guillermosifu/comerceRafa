@@ -10,7 +10,7 @@ function RafaHeader() {
         <Carousel.Item interval={1000}>
           <img 
           // size-full md:size-auto
-          src="./src/Rafael/imagen/carrusel01.jpg" 
+          src={'./src/Rafael/imagen/carrusel01.jpg'} 
           alt="First Slide"/>
           <Carousel.Caption>
           </Carousel.Caption>
